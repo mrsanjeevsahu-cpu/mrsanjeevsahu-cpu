@@ -73,25 +73,6 @@ responsive and engaging web applications.
 
 ## 🚀 Featured Projects
 
-### 🌸 Arpan — Flower Subscription Platform
-
-A modern subscription-based platform for flowers and Pooja Samagri,
-designed around recurring flower deliveries.
-
-**Tech:** React.js • Tailwind CSS • Node.js • Express.js • MongoDB • Supabase
-
-**Highlights**
-- 🌺 Flower subscription experience
-- 📅 Subscription calendar
-- 📦 Order & delivery management
-- 📍 Customer location support
-- 📱 Mobile-first interface
-- 🛍️ Product & subscription flow
-
-**[🔗 Live Demo](https://arpan-six.vercel.app/)**
-
----
-
 ### 🍽️ QR Order System
 
 A QR-based restaurant ordering system where customers can scan
