@@ -92,27 +92,6 @@ their table QR, browse the menu and place orders directly from their table.
 
 > Demo access may require a valid table QR/session.
 
----
-
-### 🏥 Hospital Website
-
-A modern responsive hospital website focused on clean UI,
-simple navigation and a user-friendly experience.
-
-**Tech:** React.js • Tailwind CSS • Framer Motion
-
-**[🔗 Live Demo](https://sanjeev-hospital-indore.vercel.app/)**
-
----
-
-### 🏟️ Sports Arena
-
-A modern sports arena website designed with responsive layouts,
-interactive sections and engaging animations.
-
-**Tech:** React.js • Tailwind CSS • Framer Motion
-
-**[🔗 Live Demo](https://sanjeev-sports-arena.vercel.app/)**
 
 ---
 
